@@ -14,7 +14,7 @@
 </p>
  <h2 align="center">LeetCode Stats ✨</h2>
 <p align="center">
-  <a href="https://github.com/KnlnKS/leetcode-stats">
+  <a href="[https://github.com/KnlnKS/leetcode-stats](https://leetcode.com/trietnguyenpham/)">
     <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=trietnguyenpham&theme=dark" width="400"/>
   </a>
 </p>
